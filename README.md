@@ -22,7 +22,7 @@
 
 ## 📜 Descrição
 
-*Descreva seu projeto com base no texto do PBL (até 600 palavras)*
+Ainda que o agro seja responsável por um dos maiores impactos no Brasil desde a economia até o desenvolvimento humano, ele não consegue aproveitar de 100% do que ele produz, seja a perda devido a ineficiência do maquinário até algum que ocorre durante o transporte, porém o problema alvo desse projeto, se trata do início de tudo, e sua má manuseabilidade pode levar a gigantescos prejuízos no fim da cadeia do agro. A falta de monitoramento em tempo preciso das culturas é algo que pode facilmente ser ignorado por certos agricultores, que ou acreditam ter total conhecimento do que produzem ou aqueles que acabaram de dar início em suas carreiras no agrol, porém, em sua maioria, as culturas necessitam de circunstâncias extremamente favoráveis para que elas amadureçam bem resultando na melhor colheita para a propriedade. Nós da FarmTech Solutions, estamos propondo uma família de sensores para que o agricultor saiba de todas as informações mais importantes para a saúde de suas culturas, da umidade do solo em cada quadrante da propriedade, da umidade do ar, até mesmo a temperatura, tudo isso a disposição de um simples programa que mostrará todas essas e outras informações para garantir que o agricultor saiba exatamente o que necessita de sua intervenção, e do que se encontra em excelente estado diariamente.
 
 
 ## 📁 Estrutura de pastas
