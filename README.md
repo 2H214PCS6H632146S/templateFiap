@@ -45,12 +45,12 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Como executar o código
 
-Install the <a href="https://www.oracle.com/database/sqldeveloper/technologies/download/">Oracle SQL Developer</a> And connect to your data bank, after that execute the code found in the file also remember to update the "USER", "PASSWORD", and "YOURDSN" to match your informations.Install both <a href="https://python-oracledb.readthedocs.io/en/latest/user_guide/installation.html#quickstart">Python and oracledb</a> , remember to execute oracledb with your cmd using this code "python -m pip install oracledb --upgrade --user". Install the Pandas library by executing this code on your cmd "python -m pip install pandas". You can execute the code via your cmd, by simply following the path to the directory where you downloaded the code such as "C:\Users\'YOURUSER'\Desktop\'GENERICFOLDERNAME'\python FarmTechSolution.py
+Install the <a href="https://www.oracle.com/database/sqldeveloper/technologies/download/">Oracle SQL Developer</a> And connect to your data bank, after that execute the code found in the file "oracleScript" inside the "scripts" folder. Also remember to update the "USER", "PASSWORD", and "YOURDSN" to match your informations.Install both <a href="https://python-oracledb.readthedocs.io/en/latest/user_guide/installation.html#quickstart">Python and oracledb</a> , remember to execute oracledb with your cmd using this code "python -m pip install oracledb --upgrade --user". Install the Pandas library by executing this code on your cmd "python -m pip install pandas". You can execute the code via your cmd, by simply following the path to the directory where you downloaded the code such as "C:\Users\'YOURUSER'\Desktop\'GENERICFOLDERNAME'\python FarmTechSolution.py
 
 
 ## 🗃 Histórico de lançamentos
 
-* 0.5.0 - XX/XX/2024
+* 0.0.1 - 15/10/2024
     * 
 * 0.4.0 - XX/XX/2024
     * 
