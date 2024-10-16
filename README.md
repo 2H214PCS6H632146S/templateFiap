@@ -45,7 +45,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Como executar o código
 
-Install <a href="https://www.python.org/downloads">Python</a>
+Install both <a href="https://python-oracledb.readthedocs.io/en/latest/user_guide/installation.html#quickstart">Python and oracledb</a>
 
 
 ## 🗃 Histórico de lançamentos
