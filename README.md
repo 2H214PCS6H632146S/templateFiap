@@ -45,7 +45,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Como executar o código
 
-Install both <a href="https://python-oracledb.readthedocs.io/en/latest/user_guide/installation.html#quickstart">Python and oracledb</a>
+Install both <a href="https://python-oracledb.readthedocs.io/en/latest/user_guide/installation.html#quickstart">Python and oracledb</a> , remember to execute oracledb with your cmd using this code "python -m pip install oracledb --upgrade --user".
 
 
 ## 🗃 Histórico de lançamentos
